@@ -90,6 +90,12 @@ We have developed an *automated AI-powered inspection system* leveraging *comput
 🔹 *Data Labeling*: CVAT  
 🔹 *Frameworks*: PyTorch  
 
+## Flowcharts:
+
+<img width="229" alt="{2B7365C3-D4E0-4592-A7B0-D0203056A4DB}" src="https://github.com/user-attachments/assets/a6d036c6-0d4f-4595-9cfb-e67d2f692d1f" />
+<img width="181" alt="{0C6E75EE-8E01-4231-A648-A40B59C764D2}" src="https://github.com/user-attachments/assets/fcbc6b92-0358-439a-880c-c3f90fc3b53e" />
+
+
 ## 📑 *References*: 
 
     
